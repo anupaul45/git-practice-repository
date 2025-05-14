@@ -5,4 +5,5 @@ Ans 4:The staging area is like a waiting room for you changes before you save th
 Ans 5:The git folder  is a hidden folder that git create to track the change in code. It contains all the information like commit, remote,branches, etc.
 Ans 6:Git branches is define as when we add fetures to our clone and after review add or merge to the main project.Command is git branch<branch name> and for switch we use git checkout <branch name>.
 Ans 7: Git reset is used only for HEAD shift whereas Git reset--hard is used for HEAD shift and permanently delete .
-Ans 8:Squash merge is used integrate all the commit and merge to the main branch.
+Ans 8:Squash merge is defined as which help to prevent the data from polluted and it is used for integrate the data and merge the data too main branch.
+Ans 9:Git rebase is used to solve the problem commit sequence disturbance.for example-we work on feature branch and our teammate puch new commit to the main branch and you want to integrate those changes to your branch without disturb the commit sequence.
