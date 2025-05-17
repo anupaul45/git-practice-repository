@@ -1,0 +1,1 @@
+console.log(age>=18 && id)
